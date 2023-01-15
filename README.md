@@ -123,10 +123,10 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![OUTPUT](./out.png)
+![](out.png)
 
 ### Home Page:
-![Homepage](./home1.png)
+![](home1.png)
 
 ## Result:
 The program for implementing server side processing in completed successfully
